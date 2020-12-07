@@ -36,7 +36,7 @@ export default {
           nombre: "Jean Pierre Rojas",
           descripcion: "Ingeniero Electrónico - Universidad Surcolombiana",
           rol: "Scrum master",
-          imagen: require("./assets/jean.jpg"),
+          image: require("./assets/jean.jpg"),
         },
         {
           codigo: 2,
@@ -44,7 +44,7 @@ export default {
           descripcion:
             "Estudiante de Ingeniería de Sistemas - Universidad Nacional Abierta y a Distancia",
           rol: "Desarrollador",
-          imagen: require("./assets/walter.jpg"),
+          image: require("./assets/walter.jpg"),
         },
         {
           codigo: 3,
@@ -52,7 +52,7 @@ export default {
           descripcion:
             "Ingeniera en Telecomunicaciones - Unidades Tecnológicas de Santander",
           rol: "Desarrollador",
-          imagen: require("./assets/marcela.jpg"),
+          image: require("./assets/marcela.jpg"),
         },
         {
           codigo: 4,
@@ -60,7 +60,7 @@ export default {
           descripcion:
             "Ingeniero Mecánico - Universidad Industrial de Santander",
           rol: "Desarrollador",
-          imagen: require("./assets/sergio.jpg"),
+          image: require("./assets/sergio.jpg"),
         },
       ],
     };
