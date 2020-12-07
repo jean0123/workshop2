@@ -1,7 +1,7 @@
 <template>
   <div class="card text-white" style="background-color: #4e5459">
     <div class="d-flex justify-content-center p-2">
-      <img :src="member.imagen" alt="imagen del integrante" />
+      <img :src="member.image" alt="image del integrante" />
     </div>
     <div class="card-body" style="height: 230px">
       <h6 class="card-title">Código: {{ member.codigo }}</h6>
